@@ -1,4 +1,4 @@
-### Codebook
+# Codebook
 
 ## Data Sources
 
@@ -26,11 +26,11 @@ The substantive differences to note between the original data set and the the ti
 
 ## Variable Explanations
 
-# Subject
+### Subject
 
 The study involved thirty different subjects, numbered 1 through 30. 
 
-# Activity
+### Activity
 
 Each subject performed six different activities: 
 
@@ -41,7 +41,7 @@ Each subject performed six different activities:
 - WALKING_DOWNSTAIRS
 - WALKING_UPSTAIRS
 
-# Data
+### Data
 
 The remaining columns all represent the average reading from an accelerometer and gyroscope. For more detailed information, please refer to the features_info.txt and README.txt files, which are included with the dataset. 
 

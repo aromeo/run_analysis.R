@@ -1,4 +1,4 @@
-### run_analysis.R
+# run_analysis.R
 
 ## Overview
 
@@ -10,6 +10,6 @@ Detailed information on the dataset itself can be found in the README.txt file i
 
 http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphones 
 
-# Running the Script
+## Running the Script
 
 run\_analysis.R contains one function, run\_analysis(). It takes parameter: a string "dir", which should be the directory which contains the data, specifically the same location as the README.txt file, and the test and trial directories. 
